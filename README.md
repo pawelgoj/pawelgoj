@@ -1,4 +1,11 @@
-### Hi there 👋
+## About me 
+
+I am interested in testing and data analysis. I love programming in Python. 
+
+
+## :wrench: Technologies
+
+
 
 <!--
 **pawelgoj/pawelgoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
