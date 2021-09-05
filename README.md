@@ -1,4 +1,4 @@
-## About me 
+## :monocle_face: About me 
 
 I am interested in testing and data analysis. I love programming in Python. 
 
