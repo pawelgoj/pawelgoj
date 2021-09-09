@@ -6,6 +6,7 @@ I am interested in testing and data analysis. I love programming in Python.
 ## :wrench:
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium)
+![](https://img.shields.io/badge/Cucumber-black?style=for-the-badge&logo=cucumber)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
