@@ -3,7 +3,7 @@
 I am interested in testing and data analysis. I love programming in Python.
 
 ## Connect with me: 
-[<i class="fab fa-linkedin-in"></i>][linkedin]
+<i class="fab fa-linkedin-in"></i>linkedin[linkedin]
 
 ## :wrench:
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
