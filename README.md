@@ -1,3 +1,9 @@
+<head>
+  <script src="https://kit.fontawesome.com/d1febbd466.js" crossorigin="anonymous"></script>
+<\head>
+
+
+
 ## :sunglasses: About me 
 
 I am interested in testing and data analysis. I love programming in Python.
