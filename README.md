@@ -4,7 +4,7 @@
 I am interested in testing and data analysis. I love programming in Python.
 
 ## Connect with me: 
-![[linkedin]](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[<img https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />][linkedin]
 
 ## :wrench:
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
