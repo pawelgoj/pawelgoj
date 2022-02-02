@@ -2,7 +2,7 @@
 
 I am interested in testing and data analysis. I love programming in Python.
 
-[linkedin]: www.linkedin.com/in/paweł-goj-1b7300160
+[linkedin]: https://www.linkedin.com/in/paweł-goj-1b7300160
 ## :wrench:
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium)
