@@ -1,6 +1,6 @@
 ## :sunglasses: About me 
 
-I am interested in testing and data analysis. I love programming in Python. 
+I am interested in testing and data analysis. I love programming in Python.
 
 
 ## :wrench:
