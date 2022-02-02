@@ -6,7 +6,7 @@ I am interested in testing and data analysis. I love programming in Python.
 ## Connect with me: 
  - [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
-## :wrench skills:
+## :wrench: Skills
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium)
 ![image](https://img.shields.io/badge/Behave-white?style=for-the-badge&logo=behave)
