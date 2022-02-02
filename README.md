@@ -1,8 +1,3 @@
-<head>
-  <script src="https://kit.fontawesome.com/d1febbd466.js" crossorigin="anonymous"></script>
-<\head>
-
-
 
 ## :sunglasses: About me 
 
