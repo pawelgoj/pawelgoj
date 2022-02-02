@@ -3,7 +3,7 @@
 I am interested in testing and data analysis. I love programming in Python.
 
 ## Connect with me: 
-[<img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
+[<i class="fab fa-linkedin-in"></i>][linkedin]
 
 ## :wrench:
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -24,4 +24,4 @@ I am interested in testing and data analysis. I love programming in Python.
 ![](https://img.shields.io/badge/VBA-blue?style=for-the-badge)
 
 [linkedin]: https://linkedin.com/in/paweł-goj-1b7300160
-<a href="https://icons8.com/icon/98960/linkedin">LinkedIn icon by Icons8</a>
+
