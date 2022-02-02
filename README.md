@@ -1,5 +1,5 @@
 ## :sunglasses: About me 
-<script src="https://kit.fontawesome.com/d1febbd466.js" crossorigin="anonymous"></script>
+
 I am interested in testing and data analysis. I love programming in Python.
 
 ## Connect with me: 
