@@ -5,7 +5,7 @@ I am interested in testing and data analysis. I love programming in Python.
 
 ## Connect with me: 
  - [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
- - [pawel.goj5@gmail.com](pawelgoj5@gmail.com)
+ - pawel.goj5@gmail.com
 
 ## :wrench: Languages and Tools:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
