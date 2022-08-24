@@ -33,3 +33,5 @@ I am interested in testing and data analysis. I love programming in Python.
 
 [linkedin]: https://linkedin.com/in/paweł-goj-1b7300160
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)
+
