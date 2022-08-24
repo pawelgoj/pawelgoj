@@ -31,7 +31,9 @@ I am interested in testing and data analysis. I love programming in Python.
  <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
+
+[Rusty_crossword]: https://github.com/pawelgoj/Rusty_Crossword
 [linkedin]: https://linkedin.com/in/paweł-goj-1b7300160
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)
-
