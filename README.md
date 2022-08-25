@@ -33,8 +33,19 @@ I am interested in testing and data analysis. I love programming in Python.
 
 
 ## Projects 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Envelope-for-QE-PH-calculations)][Envelope]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=CDFFL-Create-data-files-for-lammps-amorphous-simulations)][CDFFL]
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Weather-APP)][Weather_APP]
 
 
 [Rusty_crossword]: https://github.com/pawelgoj/Rusty_Crossword
+
+[Envelope]: https://github.com/pawelgoj/Envelope-for-QE-PH-calculations
+
+[CDFFL]: https://github.com/pawelgoj/CDFFL-Create-data-files-for-lammps-amorphous-simulations
+
+[Weather_APP]: https://github.com/pawelgoj/Weather-APP
+
 [linkedin]: https://linkedin.com/in/paweł-goj-1b7300160
