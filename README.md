@@ -33,12 +33,19 @@ I am interested in testing and data analysis. I love programming in Python.
 
 
 ## Projects 
+
+### Data analysis and automatization 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Envelope-for-QE-PH-calculations)][Envelope]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=CDFFL-Create-data-files-for-lammps-amorphous-simulations)][CDFFL]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Multiplikowanie-ukladu-i-tworzenie-wiazan)][VBA]
 
+
+### Games and frond end web aps
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Weather-APP)][Weather_APP]
 
+### Web scraping
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=exemplary_scraping_project)][scraping]
 
 [Rusty_crossword]: https://github.com/pawelgoj/Rusty_Crossword
 
@@ -49,3 +56,7 @@ I am interested in testing and data analysis. I love programming in Python.
 [Weather_APP]: https://github.com/pawelgoj/Weather-APP
 
 [linkedin]: https://linkedin.com/in/paweł-goj-1b7300160
+
+[VBA]: https://github.com/pawelgoj/Multiplikowanie-ukladu-i-tworzenie-wiazan
+
+[scraping]: https://github.com/pawelgoj/exemplary_scraping_project
