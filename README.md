@@ -32,8 +32,9 @@ I am interested in testing and data analysis. I love programming in Python.
 
 
 
-
+## Projects 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
+
 
 [Rusty_crossword]: https://github.com/pawelgoj/Rusty_Crossword
 [linkedin]: https://linkedin.com/in/paweł-goj-1b7300160
