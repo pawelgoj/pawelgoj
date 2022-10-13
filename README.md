@@ -7,6 +7,10 @@ I am interested in testing and data analysis. I love programming in Python.
  - [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
  - pawel.goj5@gmail.com
 
+## Statistics
+ <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats.vercel.app/api/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
+ ---
+ <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
  
 ## :wrench: Languages and Tools:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
