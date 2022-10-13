@@ -26,10 +26,7 @@ I am interested in testing and data analysis. I love programming in Python.
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/VBA-blue?style=for-the-badge)
 
-## Statistics
- <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats.vercel.app/api/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
- ---
- <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
+
 
 
 
