@@ -7,6 +7,7 @@ I am interested in testing and data analysis. I love programming in Python.
  - [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
  - pawel.goj5@gmail.com
 
+ 
 ## :wrench: Languages and Tools:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,6 +22,8 @@ I am interested in testing and data analysis. I love programming in Python.
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
+![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/VBA-blue?style=for-the-badge)
 
 ## Statistics
