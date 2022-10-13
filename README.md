@@ -43,6 +43,8 @@ I am interested in testing and data analysis. I love programming in Python.
 ### Games and frond end web aps
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Weather-APP)][Weather_APP]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Quiz-CPP)][Quiz-CPP]
+
 
 ### Web scraping
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=exemplary_scraping_project)][scraping]
@@ -54,6 +56,8 @@ I am interested in testing and data analysis. I love programming in Python.
 [CDFFL]: https://github.com/pawelgoj/CDFFL-Create-data-files-for-lammps-amorphous-simulations
 
 [Weather_APP]: https://github.com/pawelgoj/Weather-APP
+
+[Quiz-CPP]: https://github.com/pawelgoj/Quiz-CPP
 
 [linkedin]: https://linkedin.com/in/paweł-goj-1b7300160
 
