@@ -42,7 +42,7 @@ I am interested in testing and data analysis. I love programming in Python.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Multiplikowanie-ukladu-i-tworzenie-wiazan)][VBA]
 
 
-### Games and frond end web aps
+### Games and frond end web apps
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Weather-APP)][Weather_APP]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Quiz-CPP)][Quiz-CPP]
