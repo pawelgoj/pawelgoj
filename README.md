@@ -51,6 +51,9 @@ I am interested in testing and data analysis. I love programming in Python.
 ### Web scraping
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=exemplary_scraping_project)][scraping]
 
+### Other
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=TSQL_Test_case_database)][TSQL]
+
 [Rusty_crossword]: https://github.com/pawelgoj/Rusty_Crossword
 
 [Envelope]: https://github.com/pawelgoj/Envelope-for-QE-PH-calculations
@@ -66,3 +69,5 @@ I am interested in testing and data analysis. I love programming in Python.
 [VBA]: https://github.com/pawelgoj/Multiplikowanie-ukladu-i-tworzenie-wiazan
 
 [scraping]: https://github.com/pawelgoj/exemplary_scraping_project
+
+[TSQL]: https://github.com/pawelgoj/TSQL_Test_case_database
