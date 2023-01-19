@@ -54,6 +54,7 @@ I am interested in testing and data analysis. I love programming in Python.
 ### Other
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=TSQL_Test_case_database)][TSQL]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=rgb_led_color_change)][rgb_led_color_change]
+[![RGB_LEDs_controler](https://github.com/pawelgoj/RGB_LEDs_controler)
 
 [Rusty_crossword]: https://github.com/pawelgoj/Rusty_Crossword
 
@@ -74,3 +75,6 @@ I am interested in testing and data analysis. I love programming in Python.
 [TSQL]: https://github.com/pawelgoj/TSQL_Test_case_database
 
 [rgb_led_color_change]: https://github.com/pawelgoj/rgb_led_color_change
+
+[RGB_LEDs_controler]: https://github.com/pawelgoj/RGB_LEDs_controler
+
