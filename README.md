@@ -8,9 +8,9 @@ I am interested in testing and data analysis. I love programming in Python.
  - pawel.goj5@gmail.com
 
 ## Statistics
- <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats.vercel.app/api/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats-8yci.vercel.app/api/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
  ---
- <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats-8yci.vercel.app/api/top-langs/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
  
 ## :wrench: Languages and Tools:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -38,23 +38,23 @@ I am interested in testing and data analysis. I love programming in Python.
 
 ### Data analysis and automatization 
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Envelope-for-QE-PH-calculations)][Envelope]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=CDFFL-Create-data-files-for-lammps-amorphous-simulations)][CDFFL]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Multiplikowanie-ukladu-i-tworzenie-wiazan)][VBA]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=CDFFL-Create-data-files-for-lammps-amorphous-simulations)][CDFFL]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Multiplikowanie-ukladu-i-tworzenie-wiazan)][VBA]
 
 
 ### Games and frond end web apps
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Weather-APP)][Weather_APP]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Quiz-CPP)][Quiz-CPP]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Weather-APP)][Weather_APP]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Quiz-CPP)][Quiz-CPP]
 
 
 ### Web scraping
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=exemplary_scraping_project)][scraping]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=exemplary_scraping_project)][scraping]
 
 ### Other
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=TSQL_Test_case_database)][TSQL]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=rgb_led_color_change)][rgb_led_color_change]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=RGB_LEDs_controler)][RGB_LEDs_controler]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=TSQL_Test_case_database)][TSQL]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=rgb_led_color_change)][rgb_led_color_change]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=RGB_LEDs_controler)][RGB_LEDs_controler]
 
 [Rusty_crossword]: https://github.com/pawelgoj/Rusty_Crossword
 
