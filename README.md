@@ -37,7 +37,7 @@ I am interested in testing and data analysis. I love programming in Python.
 ## Projects 
 
 ### Data analysis and automatization 
-[![ReadMe Card](https://github-readme-stats-nine-chi-77.vercel.app/?username=pawelgoj&repo=Envelope-for-QE-PH-calculations)][Envelope]
+[![ReadMe Card](https://github-readme-stats-nine-chi-77.vercel.app/pin/?username=pawelgoj&repo=Envelope-for-QE-PH-calculations)][Envelope]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=CDFFL-Create-data-files-for-lammps-amorphous-simulations)][CDFFL]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pawelgoj&repo=Multiplikowanie-ukladu-i-tworzenie-wiazan)][VBA]
 
