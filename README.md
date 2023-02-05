@@ -40,6 +40,7 @@ I am interested in testing and data analysis. I love programming in Python.
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Envelope-for-QE-PH-calculations)][Envelope]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=CDFFL-Create-data-files-for-lammps-amorphous-simulations)][CDFFL]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Multiplikowanie-ukladu-i-tworzenie-wiazan)][VBA]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=pyMayCoor)][pyMayCoor]
 
 
 ### Games and frond end web apps
@@ -71,6 +72,8 @@ I am interested in testing and data analysis. I love programming in Python.
 [VBA]: https://github.com/pawelgoj/Multiplikowanie-ukladu-i-tworzenie-wiazan
 
 [scraping]: https://github.com/pawelgoj/exemplary_scraping_project
+
+[pyMayCoor](https://github.com/pawelgoj/pyMayCoor)
 
 [TSQL]: https://github.com/pawelgoj/TSQL_Test_case_database
 
