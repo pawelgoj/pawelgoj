@@ -73,7 +73,7 @@ I am interested in testing and data analysis. I love programming in Python.
 
 [scraping]: https://github.com/pawelgoj/exemplary_scraping_project
 
-[pyMayCoor](https://github.com/pawelgoj/pyMayCoor)
+[pyMayCoor]: https://github.com/pawelgoj/pyMayCoor
 
 [TSQL]: https://github.com/pawelgoj/TSQL_Test_case_database
 
