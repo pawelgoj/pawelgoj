@@ -46,6 +46,7 @@ I am interested in testing and data analysis. I love programming in Python.
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Selenium_page_obiect_patern_nad_and_DDT_example)][Selenium_page_obiect_patern_nad_and_DDT_example]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=testowanie_rest_api)][testowanie_rest_api]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=load_testing_with_locust)][load_testing_with_locust]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Functional_testing_with_robot_framework)][Functional_testing_with_robot_framework]
 
 ### Games and frond end web apps
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
@@ -62,6 +63,8 @@ I am interested in testing and data analysis. I love programming in Python.
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=RGB_LEDs_controler)][RGB_LEDs_controler]
 
 [Rusty_crossword]: https://github.com/pawelgoj/Rusty_Crossword
+
+[Functional_testing_with_robot_framework]: https://github.com/pawelgoj/Functional_testing_with_robot_framework
 
 [Envelope]: https://github.com/pawelgoj/Envelope-for-QE-PH-calculations
 
