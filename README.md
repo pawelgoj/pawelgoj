@@ -33,14 +33,14 @@ I am interested in testing and data analysis. I love programming in Python.
 
 
 
-
 ## Projects 
 
-### Data analysis and automatization 
+### Data analysis and automatization related to my Phd
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Envelope-for-QE-PH-calculations)][Envelope]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=CDFFL-Create-data-files-for-lammps-amorphous-simulations)][CDFFL]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Multiplikowanie-ukladu-i-tworzenie-wiazan)][VBA]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=pyMayCoor)][pyMayCoor]
+
 
 ### Testing
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Selenium_page_obiect_patern_nad_and_DDT_example)][Selenium_page_obiect_patern_nad_and_DDT_example]
@@ -48,19 +48,29 @@ I am interested in testing and data analysis. I love programming in Python.
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=load_testing_with_locust)][load_testing_with_locust]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Functional_testing_with_robot_framework)][Functional_testing_with_robot_framework]
 
-### Games and frond end web apps
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
+
+### Web apps
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Weather-APP)][Weather_APP]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=beauty_services_website)][beauty_services_website]
+
+
+### Games
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Quiz-CPP)][Quiz-CPP]
 
 
 ### Web scraping
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=exemplary_scraping_project)][scraping]
 
-### Other
+
+### Databases
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=TSQL_Test_case_database)][TSQL]
+
+
+### Microcontrollers
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=rgb_led_color_change)][rgb_led_color_change]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=RGB_LEDs_controler)][RGB_LEDs_controler]
+
 
 [Rusty_crossword]: https://github.com/pawelgoj/Rusty_Crossword
 
@@ -93,3 +103,5 @@ I am interested in testing and data analysis. I love programming in Python.
 [testowanie_rest_api]: https://github.com/pawelgoj/testowanie_rest_api
 
 [load_testing_with_locust]: https://github.com/pawelgoj/load_testing_with_locust
+
+[beauty_services_website]: https://github.com/pawelgoj/beauty_services_website
