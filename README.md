@@ -31,6 +31,7 @@ I am interested in testing and data analysis. I love programming in Python.
 ![image](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/VBA-blue?style=for-the-badge)
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
 
