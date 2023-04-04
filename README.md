@@ -19,6 +19,8 @@ I am interested in testing and data analysis. I love programming in Python.
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![image](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium)
+![image](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![image](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![image](https://img.shields.io/badge/Behave-white?style=for-the-badge&logo=behave)
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
