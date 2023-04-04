@@ -43,7 +43,7 @@ I am interested in testing and data analysis. I love programming in Python.
 
 
 ### Testing
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Selenium_page_obiect_patern_nad_and_DDT_example)][Selenium_page_obiect_patern_nad_and_DDT_example]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Selenium_page_obiect_patern_and_DDT_example)][Selenium_page_obiect_patern_nad_and_DDT_example]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=testowanie_rest_api)][testowanie_rest_api]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=load_testing_with_locust)][load_testing_with_locust]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Functional_testing_with_robot_framework)][Functional_testing_with_robot_framework]
@@ -98,7 +98,7 @@ I am interested in testing and data analysis. I love programming in Python.
 
 [RGB_LEDs_controler]: https://github.com/pawelgoj/RGB_LEDs_controler
 
-[Selenium_page_obiect_patern_nad_and_DDT_example]: https://github.com/pawelgoj/Selenium_page_obiect_patern_nad_and_DDT_example
+[Selenium_page_obiect_patern_nad_and_DDT_example]: https://github.com/pawelgoj/Selenium_page_obiect_patern_and_DDT_example
 
 [testowanie_rest_api]: https://github.com/pawelgoj/testowanie_rest_api
 
