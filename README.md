@@ -53,8 +53,9 @@ I am interested in testing and data analysis. I love programming in Python.
 
 
 ### Web apps
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Weather-APP)][Weather_APP]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=beauty_services_website)][beauty_services_website]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Weather-APP)][Weather_APP]
+
 
 
 ### Games
