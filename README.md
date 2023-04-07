@@ -20,14 +20,14 @@ I am interested in testing and data analysis. I love programming in Python.
 ![image](https://img.shields.io/badge/VBA-blue?style=for-the-badge)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![image](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![image](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium)
 ![image](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![image](https://img.shields.io/badge/PyTest-white?style=for-the-badge&logo=PyTest)
 ![image](https://img.shields.io/badge/Behave-white?style=for-the-badge&logo=behave)
+
+![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![image](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![image](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
