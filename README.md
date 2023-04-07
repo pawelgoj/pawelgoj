@@ -57,7 +57,7 @@ I am interested in testing and data analysis. I love programming in Python.
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=testowanie_rest_api)][testowanie_rest_api]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=load_testing_with_locust)][load_testing_with_locust]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Functional_testing_with_robot_framework)][Functional_testing_with_robot_framework]
-[![ReadMe Card](https://github.com/pawelgoj/Testalia-wykonane-przeze-mnie-na-kursie-i-stazu)][starz]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Testalia-wykonane-przeze-mnie-na-kursie-i-stazu)][starz]
 
 
 ### Web apps
