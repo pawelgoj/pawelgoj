@@ -19,6 +19,7 @@ I am interested in testing and data analysis. I love programming in Python.
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/VBA-blue?style=for-the-badge)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/Kivy-black?style=for-the-badge)
 
 ![image](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium)
 ![image](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
