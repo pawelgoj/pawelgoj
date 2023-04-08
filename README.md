@@ -110,7 +110,7 @@ I am interested in testing and data analysis. I love programming in Python.
 
 [RGB_LEDs_controler]: https://github.com/pawelgoj/RGB_LEDs_controler
 
-[Selenium_page_obiect_patern_nad_and_DDT_example]: Selenium_page_object_patern_and_DDT_example
+[Selenium_page_obiect_patern_nad_and_DDT_example]: https://github.com/pawelgoj/Selenium_page_object_patern_and_DDT_example
 
 [testowanie_rest_api]: https://github.com/pawelgoj/testowanie_rest_api
 
