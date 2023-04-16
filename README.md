@@ -38,6 +38,7 @@ I am interested in testing and data analysis. I love programming in Python.
 ## :book: Now learn:
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -59,6 +60,7 @@ I am interested in testing and data analysis. I love programming in Python.
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=load_testing_with_locust)][load_testing_with_locust]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Functional_testing_with_robot_framework)][Functional_testing_with_robot_framework]
 [![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Testalia-wykonane-przeze-mnie-na-kursie-i-stazu)][starz]
+[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Cypress-exemplary-tests)][Cypress]
 
 
 ### Web apps
@@ -106,6 +108,8 @@ I am interested in testing and data analysis. I love programming in Python.
 [pyMayCoor]: https://github.com/pawelgoj/pyMayCoor
 
 [TSQL]: https://github.com/pawelgoj/TSQL_Test_case_database
+
+[Cypress]: https://github.com/pawelgoj/Cypress-exemplary-tests
 
 [rgb_led_color_change]: https://github.com/pawelgoj/rgb_led_color_change
 
