@@ -8,9 +8,9 @@ I am interested in testing and data analysis. I love programming in Python.
  - pawel.goj5@gmail.com
 
 ## Statistics
- <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats-8yci.vercel.app/api/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats-v-lilac.vercel.app/api/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
  ---
- <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats-8yci.vercel.app/api/top-langs/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <img align="center" alt="Pawel Goj stats" src="https://github-readme-stats-v-lilac.vercel.app/api/top-langs/?username=pawelgoj&layout=compact&theme=buefy&hide_border=true" /></a> 
  
 ## :wrench: Languages and Tools:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -49,42 +49,42 @@ I am interested in testing and data analysis. I love programming in Python.
 
 ### Data analysis and automatization related to my PhD
 [![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=pyMayCoor)][pyMayCoor]
-[![ReadMe Card](https://github-readme-stats-8yci-8bsen845y-pawelgoj.vercel.app/api/pin/?username=pawelgoj&repo=Envelope-for-QE-PH-calculations)][Envelope]
-[![ReadMe Card](https://github-readme-stats-8yci-8bsen845y-pawelgoj.vercel.app/api/pin/?username=pawelgoj&repo=CDFFL-Create-data-files-for-lammps-amorphous-simulations)][CDFFL]
-[![ReadMe Card](https://github-readme-stats-8yci-8bsen845y-pawelgoj.vercel.app/api/pin/?username=pawelgoj&repo=Multiplikowanie-ukladu-i-tworzenie-wiazan)][VBA]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=Envelope-for-QE-PH-calculations)][Envelope]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=CDFFL-Create-data-files-for-lammps-amorphous-simulations)][CDFFL]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=Multiplikowanie-ukladu-i-tworzenie-wiazan)][VBA]
 
 
 ### Testing                 
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Selenium_page_object_patern_and_BDD_example)][Selenium_page_obiect_patern_nad_and_DDT_example]
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=testowanie_rest_api)][testowanie_rest_api]
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=load_testing_with_locust)][load_testing_with_locust]
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Functional_testing_with_robot_framework)][Functional_testing_with_robot_framework]
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Testalia-wykonane-przeze-mnie-na-kursie-i-stazu)][starz]
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Cypress-exemplary-tests)][Cypress]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=Selenium_page_object_patern_and_BDD_example)][Selenium_page_obiect_patern_nad_and_DDT_example]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=testowanie_rest_api)][testowanie_rest_api]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=load_testing_with_locust)][load_testing_with_locust]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=Functional_testing_with_robot_framework)][Functional_testing_with_robot_framework]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=Testalia-wykonane-przeze-mnie-na-kursie-i-stazu)][starz]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=Cypress-exemplary-tests)][Cypress]
 
 
 ### Web apps
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=beauty_services_website)][beauty_services_website]
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Weather-APP)][Weather_APP]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=beauty_services_website)][beauty_services_website]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=Weather-APP)][Weather_APP]
 
 
 
 ### Games
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=Quiz-CPP)][Quiz-CPP]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=Rusty_Crossword)][Rusty_crossword]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=Quiz-CPP)][Quiz-CPP]
 
 
 ### Web scraping
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=exemplary_scraping_project)][scraping]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=exemplary_scraping_project)][scraping]
 
 
 ### Databases
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=TSQL_Test_case_database)][TSQL]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=TSQL_Test_case_database)][TSQL]
 
 
 ### Microcontrollers
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=rgb_led_color_change)][rgb_led_color_change]
-[![ReadMe Card](https://github-readme-stats-8yci.vercel.app/api/pin/?username=pawelgoj&repo=RGB_LEDs_controler)][RGB_LEDs_controler]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=rgb_led_color_change)][rgb_led_color_change]
+[![ReadMe Card](https://github-readme-stats-v-lilac.vercel.app/api/pin/?username=pawelgoj&repo=RGB_LEDs_controler)][RGB_LEDs_controler]
 
 
 [Rusty_crossword]: https://github.com/pawelgoj/Rusty_Crossword
